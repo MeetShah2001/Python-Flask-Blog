@@ -1,0 +1,23 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "http://facebook.com/codingthunder",
+    "tw_url": "http://twitter.com/codingthunder",
+    "gt_url": "http://gitub.com/codingthunder",
+    "title": "Reliance Jio",
+    "tag_line": "A Blog like by Jio users",
+    "gmail-user": "meets1509@gmail.com",
+    "gmail-password": "flzlpmoqbaklvbmf",
+    "about-text": "Media production and delivery technology may potentially enhance the value by formatting, filtering, and combining different types of content for new audiences. Less emphasis on value from content stored for possible use in its original form and more emphasis on rapid re-purposing, reuse, and redeployment has led many publishers and media producers to view their primary function less as originators and more as transformers of content. Thus, one finds out that institutions that used to focus on publishing printed materials are now publishing both databases and software to combine content from various sources for a wider variety of audiences.",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "meet",
+    "admin_password": "1509",
+    "upload_location": "C:\\Users\\meet\\PycharmProjects\\flask_tut\\static"
+  }
+
+}
